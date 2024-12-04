@@ -1,0 +1,8 @@
+torch>=2.0.0
+mamba-ssm
+nltk
+scikit-learn
+numpy
+pandas
+tqdm
+seaborn
